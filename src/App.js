@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Mukul Bhoite is my name
+     i just want to create react App.
     </div>
   );
 }
